@@ -1,0 +1,6 @@
+flask==3.1.2
+flask_wtf==1.2.2
+wtforms==3.2.1
+bcrypt==5.0.0
+flask_mysqldb==2.0.0
+email_validator==2.3.0
